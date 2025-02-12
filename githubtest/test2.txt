@@ -1,0 +1,2 @@
+this is simple program
+sample file has been executed
